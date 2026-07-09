@@ -1,8 +1,9 @@
 /*
-QUESTION: What are the top paying skills based on salary?
-- Look at the average saalry associated with each skill for data analyst postitions
+Question: What are the top skills based on salary?
+- Look at the average salary associated with each skill for Data Analyst positions
 - Focuses on roles with specified salaries, regardless of location
-- Why? it reveals how different skills impact salary levels for data analysts and helps identify the most financially rewarding skills to acquire or improve
+- Why? It reveals how different skills impact salary levels for Data Analysts and 
+    helps identify the most financially rewarding skills to acquire or improve
 */
 
 SELECT 
